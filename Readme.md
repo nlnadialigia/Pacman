@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/game.png" width="300" heigth="300">
+  <img src="assets/game.png" width="400">
 </p>
 
 
@@ -15,9 +15,10 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-    <a href="#interrobang-teoria-aplicada">Teoria</a>&nbsp;|&nbsp;
+    <a href="#ledger-teoria-aplicada">Teoria</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
+  <a href="#interrobang-referencias">Referências</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
 
@@ -29,10 +30,22 @@ ___
 ## :information_source: Sobre
 
 Sessão nostalgia! Reprodução do famoso jogo dos anos 80 - Pacman, desenvolvido baseado no Tutorial da [Coding Dojo](https://youtu.be/GOJBoGbRNQA) .
+
+O projeto inicial foi elaborado e as alterações serão realizadas em branch's separadas.
+
+Modificações que serão inseridas no projeto:
+- Criação de um modal para início do jogo;
+- Criação de um modal para o final do jogo;
+- Acrescentar inimigo;
+- Acrescentar 2 vidas ao jogo;
+- Nível de dificuldade;
+- Acrescentar som;
+- Refatoração do código;
+
 <br>
 <br>
 
-## :interrobang: Teoria Aplicada
+## :ledger: Teoria Aplicada
 
 <p align="center">
   <img src="assets/underconstruction.jpg" width="300" heigth="300">
@@ -59,6 +72,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Faça um commit com suas mudanças
 - 'Push' a sua branch
 - Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+
+## :interrobang: Referências
+
+[Como contribuir com um projeto no Github](https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github)
+ 
 <br>
 <br>
 

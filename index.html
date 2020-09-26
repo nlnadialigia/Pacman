@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pacman</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"> 
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -19,6 +20,26 @@
     <main>
         <div id="world"></div>
     </main>
+
+    <div class="start-game">
+        <img src="/assets/logo.png" alt="Pacman">
+        <div class="instructions">
+            <h2>Como jogar</h2>
+            <p>O objetivo é comer todas as pastilhas sem ser alcançado pelos fantasmas.</p>
+            <h3>Controles</h3>
+            <img src="/assets/setas.png" alt="Setas">
+        </div>
+        <div class="start">Press start</div>
+    </div>
+
+    <div class="end-game">
+        <div class="gameover">Game Over</div>
+        <div class="play-again">
+            <h3>Play again?</h3>
+            <button>Yes</button>
+            <button>No</button>
+        </div>
+    </div>
     
     <script src="script.js"></script>
 </body>
